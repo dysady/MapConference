@@ -1,10 +1,10 @@
 <?php
 
 
-$host = 'localhost;port=5433'; 
-$dbname = 'postgres'; 
-$user = 'postgres';
-$password = 'Angely29*';
+$host = ''; 
+$dbname = ''; 
+$user = '';
+$password = '';
 
 try {
     // Créer une instance de la classe PDO
