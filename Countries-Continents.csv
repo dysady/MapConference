@@ -1,0 +1,218 @@
+pays,continent,id_cont
+Algeria,Africa,1
+Angola,Africa,1
+Benin,Africa,1
+Botswana,Africa,1
+Burkina,Africa,1
+Burundi,Africa,1
+Cameroon,Africa,1
+Cape Verde,Africa,1
+Central African Republic,Africa,1
+Chad,Africa,1
+Comoros,Africa,1
+Congo,Africa,1
+Congo Democratic Republic of,Africa,1
+Congo (Kinshasa),Africa,1
+Congo (Brazzaville),Africa,1
+Djibouti,Africa,1
+Egypt,Africa,1
+Equatorial Guinea,Africa,1
+Eritrea,Africa,1
+Ethiopia,Africa,1
+Gabon,Africa,1
+Gambia,Africa,1
+Ghana,Africa,1
+Guinea,Africa,1
+Guinea-Bissau,Africa,1
+Ivory Coast,Africa,1
+CÃŽte d'Ivoire,Africa,1
+Kenya,Africa,1
+Lesotho,Africa,1
+Liberia,Africa,1
+Libya,Africa,1
+Madagascar,Africa,1
+Malawi,Africa,1
+Mali,Africa,1
+Mauritania,Africa,1
+Mauritius,Africa,1
+Morocco,Africa,1
+Mozambique,Africa,1
+Namibia,Africa,1
+Niger,Africa,1
+Nigeria,Africa,1
+Rwanda,Africa,1
+Sao Tome and Principe,Africa,1
+Senegal,Africa,1
+Seychelles,Africa,1
+Sierra Leone,Africa,1
+Somalia,Africa,1
+South Africa,Africa,1
+South Sudan,Africa,1
+Sudan,Africa,1
+Swaziland,Africa,1
+Tanzania,Africa,1
+Togo,Africa,1
+Tunisia,Africa,1
+Uganda,Africa,1
+Zambia,Africa,1
+Zimbabwe,Africa,1
+Gibraltar,Africa,1
+Kosovo,Africa,1
+Afghanistan,Asia,2
+Bahrain,Asia,2
+Bangladesh,Asia,2
+Bhutan,Asia,2
+Brunei,Asia,2
+Myanmar,Asia,2
+Cambodia,Asia,2
+China,Asia,2
+East Timor,Asia,2
+India,Asia,2
+Indonesia,Asia,2
+Iran,Asia,2
+Iraq,Asia,2
+Israel,Asia,2
+Japan,Asia,2
+Jordan,Asia,2
+Kazakhstan,Asia,2
+North Korea,Asia,2
+South Korea,Asia,2
+Korea,Asia,2
+Republic of Korea,Asia,2
+Kuwait,Asia,2
+Kyrgyzstan,Asia,2
+Laos,Asia,2
+Lebanon,Asia,2
+Malaysia,Asia,2
+Maldives,Asia,2
+Mongolia,Asia,2
+Nepal,Asia,2
+Oman,Asia,2
+Pakistan,Asia,2
+Philippines,Asia,2
+Qatar,Asia,2
+Russia,Asia,2
+Saudi Arabia,Asia,2
+Singapore,Asia,2
+Sri Lanka,Asia,2
+Syria,Asia,2
+Tajikistan,Asia,2
+Thailand,Asia,2
+Turkey,Asia,2
+Turkmenistan,Asia,2
+United Arab Emirates,Asia,2
+Uzbekistan,Asia,2
+Vietnam,Asia,2
+Yemen,Asia,2
+Taiwan,Asia,2
+Hong Kong,Asia,2
+Albania,Europe,3
+Andorra,Europe,3
+Armenia,Europe,3
+Austria,Europe,3
+Azerbaijan,Europe,3
+Belarus,Europe,3
+Belgium,Europe,3
+Bosnia and Herzegovina,Europe,3
+Bulgaria,Europe,3
+Croatia,Europe,3
+Cyprus,Europe,3
+CZ,Europe,3
+Czechia,Europe,3
+Czech Republic,Europe,3
+Denmark,Europe,3
+Estonia,Europe,3
+Finland,Europe,3
+France,Europe,3
+Georgia,Europe,3
+Germany,Europe,3
+Greece,Europe,3
+Hungary,Europe,3
+Iceland,Europe,3
+Ireland,Europe,3
+Italy,Europe,3
+Latvia,Europe,3
+Liechtenstein,Europe,3
+Lithuania,Europe,3
+Luxembourg,Europe,3
+Macedonia,Europe,3
+Malta,Europe,3
+Moldova,Europe,3
+Monaco,Europe,3
+Montenegro,Europe,3
+Netherlands,Europe,3
+The Netherlands,Europe,3
+Norway,Europe,3
+Poland,Europe,3
+Portugal,Europe,3
+Romania,Europe,3
+San Marino,Europe,3
+Serbia,Europe,3
+Slovakia,Europe,3
+Slovenia,Europe,3
+Spain,Europe,3
+Sweden,Europe,3
+Schweden,Europe,3
+Switzerland,Europe,3
+Ukraine,Europe,3
+United Kingdom,Europe,3
+UK,Europe,3
+Vatican City,Europe,3
+Martinique,Europe,3
+Antigua and Barbuda,North America,4
+Bahamas,North America,4
+The Bahamas,North America,4
+Barbados,North America,4
+Belize,North America,4
+Canada,North America,4
+Costa Rica,North America,4
+Cuba,North America,4
+Dominica,North America,4
+Dominican Republic,North America,4
+El Salvador,North America,4
+Grenada,North America,4
+Guatemala,North America,4
+Haiti,North America,4
+Honduras,North America,4
+Jamaica,North America,4
+Mexico,North America,4
+Nicaragua,North America,4
+Panama,North America,4
+Saint Kitts and Nevis,North America,4
+Saint Lucia,North America,4
+Saint Vincent and the Grenadines,North America,4
+Trinidad and Tobago,North America,4
+United States,North America,4
+USA,North America,4
+Puerto Rico,North America,4
+Greenland,North America,4
+Hawaii,North America,4
+Australia,Oceania,5
+Fiji,Oceania,5
+Kiribati,Oceania,5
+Marshall Islands,Oceania,5
+Micronesia,Oceania,5
+Nauru,Oceania,5
+New Zealand,Oceania,5
+Palau,Oceania,5
+Papua New Guinea,Oceania,5
+Samoa,Oceania,5
+Solomon Islands,Oceania,5
+Tonga,Oceania,5
+Tuvalu,Oceania,5
+Vanuatu,Oceania,5
+New Caledonia,Oceania,5
+French Polynesia,Oceania,5
+Niue,Oceania,5
+Argentina,South America,6
+Bolivia,South America,6
+Brazil,South America,6
+Chile,South America,6
+Colombia,South America,6
+Ecuador,South America,6
+Guyana,South America,6
+Paraguay,South America,6
+Peru,South America,6
+Suriname,South America,6
+Uruguay,South America,6
+Venezuela,South America,6
